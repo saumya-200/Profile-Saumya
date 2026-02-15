@@ -4,7 +4,7 @@ A clean, minimalist static webpage built with HTML5 and CSS3.
 
 ## 🚀 Live Demo
 
-[Live on Vercel](https://profile-saumya.vercel.app/) *(Link to be updated after deployment)*
+[View on Vercel](https://vercel.com/saumya-s-projects-57e06f7c/simple-web-page)
 
 ## 🛠 Tech Stack
 
